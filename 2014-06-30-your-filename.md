@@ -80,6 +80,7 @@ Initial sessions will be scheduled but as the course unfolds, students are expec
 Well no, but…..do we want to fix some online offices hours? Or leave that emerge? However….
 ## 4. Course Map (might be useful – front up and make clickable in ebook?)
 {img src="MA-DC-Course-Map.png"}
+
 Max 50 pages reading per course per week
 ## 5. Assessments for the Core Modules
 All core module assessments involve individual and group written work and presentations. The usual extent of the assessed work in a 5 Credit module is about 5,000 words, or equivalent. (What is equivalent - perhaps examples)
